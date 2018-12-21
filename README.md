@@ -1,4 +1,4 @@
-# Black Cat Tools/Yii2-Basic
+# BlackCatTools/Yii2-Basic
 
 This project contains basic extensions for the Yii2 framework.
 
