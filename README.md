@@ -10,17 +10,17 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yiisoft/yii2-imagine
+php composer.phar require --prefer-dist blackcattools/yii2-base
 ```
 
 ```
-composer require --prefer-dist yiisoft/yii2-imagine
+composer require --prefer-dist blackcattools/yii2-base
 ```
 
 or add
 
 ```json
-"yiisoft/yii2-imagine": "~1.0.0"
+"blackcattools/yii2-base": "~1.0.2"
 ```
 
 to the `require` section of your composer.json.
