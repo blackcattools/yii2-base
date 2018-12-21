@@ -9,7 +9,10 @@ namespace blackcattools\base;
 class Bit {
     public static function test($bit,$value)
     {
-        return (2 ** $bit) & $value;
+        if ( ( (2 ** $bit) & $value ) === (2 ** $bit) ){
+                return TRUE;
+        }
+        return FALSE;
     }
     public static function listActiveBits($value,$limit=30){
             $res=[];
