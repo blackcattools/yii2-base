@@ -20,7 +20,7 @@ composer require --prefer-dist blackcattools/yii2-base
 or add
 
 ```json
-"blackcattools/yii2-base": "~1.0.2"
+"blackcattools/yii2-base": "~1.0.3"
 ```
 
 to the `require` section of your composer.json.

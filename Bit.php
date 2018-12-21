@@ -1,4 +1,8 @@
 <?php
+/**
+ * @link https://github.com/blackcattools/yii2-base
+ * @copyright Copyright (c) 2018 BlackCatTools
+ */
   
 namespace blackcattools\base;
 
@@ -20,6 +24,3 @@ class Bit {
     }
 }
 
-
-//https://support.microsoft.com/pt-br/help/305144/how-to-use-the-useraccountcontrol-flags-to-manipulate-user-account-pro
-//https://jackstromberg.com/2013/01/useraccountcontrol-attributeflag-values/
