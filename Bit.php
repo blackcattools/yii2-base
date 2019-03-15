@@ -2,6 +2,7 @@
 /**
  * @link https://github.com/blackcattools/yii2-base
  * @copyright Copyright (c) 2018 BlackCatTools
+ * @author Luciano França
  */
   
 namespace blackcattools\base;
